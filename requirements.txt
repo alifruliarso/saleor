@@ -63,7 +63,7 @@ google-measurement-protocol==1.1.0
 google-resumable-media==2.3.2; python_version >= "3.7"
 googleapis-common-protos==1.56.0; python_version >= "3.7"
 graphene==2.1.9
-graphql-core==2.3.2
+graphql-core==3.2.1
 graphql-relay==2.0.1
 grpc-google-iam-v1==0.12.4; python_version >= "3.6"
 grpcio-status==1.46.0; python_version >= "3.7"
